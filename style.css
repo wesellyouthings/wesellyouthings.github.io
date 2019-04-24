@@ -8,6 +8,11 @@ body{
   font-weight: 600;
 }
 
+.nodec{
+  text-decoration: none;
+  color: white;
+}
+
 #intro{
   font-weight: normal;
   text-align: center;
