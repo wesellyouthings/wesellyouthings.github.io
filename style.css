@@ -1,0 +1,32 @@
+body{ 
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background-color: #CDCDCD;
+}
+#title{
+  text-align: center;
+  font-weight: 600;
+}
+
+#intro{
+  font-weight: normal;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
+li{
+  list-style: none;
+  display: inline;
+  margin: 25px;
+  font-weight: bold;
+  color: blue;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
